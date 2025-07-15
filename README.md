@@ -62,14 +62,5 @@ B. Se crearon 3 excepciones propias.
 C. Respecto de la obtención de la cotización actual de las monedas, puede adaptar el siguiente código. Tenga en cuenta que para usarlo necesitará incorporar la librería JSON a su aplicación.
 IMPORTANTE: la obtención de estas cotizaciones no puede bloquear el funcionamiento de la aplicación. 
 
-import java.io.IOException;
-import java.net.URI;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
-import org.json.JSONObject; // Necesita agregar la librería org.json para trabajar con JSON
-public class ConsultarPrecioCripto {
-   private static final String URL_API = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,usd-coin,tether,dogecoin&vs_currencies=usd";
-   public static void main(String[] args) {
-       HttpClient cliente = HttpClient.newHttpClient();
-       HttpRequest solicitud = HttpRequest.newBuilder()
+<img width="591" height="262" alt="image" src="https://github.com/user-attachments/assets/1d0ee4af-8e7e-4a00-be42-88c0ad2f6aab" />
+
