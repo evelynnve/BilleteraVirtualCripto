@@ -1,4 +1,4 @@
-![Compra 2](https://github.com/user-attachments/assets/46921b74-8184-46eb-8474-adfd455370c7)Proyecto para la materia Taller de Lenguajes II - 2024 - Facultad de Informática - UNLP
+Proyecto para la materia Taller de Lenguajes II - 2024 - Facultad de Informática - UNLP
 
 <img width="613" height="362" alt="image" src="https://github.com/user-attachments/assets/b985353e-8985-44c0-9af2-07143abb05e9" />
 
